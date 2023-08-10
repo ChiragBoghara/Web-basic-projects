@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: darkslategray;
+}
+
+.result{
+    font-family: 'Lobster', cursive;
+    font-size: 5rem;
+    font-weight: bold;
+    color: aquamarine;
+    margin: 5%;
+}
+
+.player{
+    font-family: 'Shadows Into Light', cursive;
+    color: rgb(144, 194, 44);
+    margin: 5% 5% 10% 5%;
+}
+
+.row{
+    width: 70%;
+    margin: auto;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+h4{
+    font-family: 'Shadows Into Light', cursive;
+    margin: 5%;
+    color: #fff;
+}
